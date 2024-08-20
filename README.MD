@@ -27,15 +27,21 @@ ChatGPT：
     - Faça um call to action para as minhas redes sociais
     - Coloque 3 hashtags que façam sentido  
 
+
 Lexica.art：
+
 No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 - Angular
 - Red CiberPunk
 
+
 Remove.bg:
-No remove.br, a partir das imagend geradas via lexica.art, foram retirados os backgrouds da imagens.
+
+No remove.bg, a partir das imagend geradas via lexica.art, foram retirados os backgrouds da imagens.
+
 
 PowerPoint:
+
 No PoweePoint foram criadas os banners utilizados nos artigos.
 
 
