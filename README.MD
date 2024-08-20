@@ -34,7 +34,7 @@ No léxica utilizamos o acervo público de imagens geradas por outras pessoas, o
 - Red CiberPunk
 
 Remove.bg:
-No remove.bg, a partir das imagend geradas via lexica.art, foram retirados os backgrouds da imagens.
+A partir das imagens geradas via lexica.art, foram retirados os backgrouds da imagens.
 
 PowerPoint:
-No PoweePoint foram criadas os banners utilizados nos artigos.
+Criação dos banners utilizados nos artigos.
