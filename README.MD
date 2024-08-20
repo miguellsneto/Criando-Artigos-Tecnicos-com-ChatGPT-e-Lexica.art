@@ -15,7 +15,7 @@ ChatGPT：
 - Título: Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                              
 
 - Conteúdo:
-  - Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras abaixo:
+  - Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras abaixo:  
   REGRAS:
   > No máximo 5 linhas por blocos de explicação
   > Me explique de maneira informal, como se eu fosse uma criança de 10 anos
