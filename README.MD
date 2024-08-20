@@ -29,31 +29,12 @@ ChatGPT：
 
 
 Lexica.art：
-
 No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 - Angular
 - Red CiberPunk
 
-
 Remove.bg:
-
 No remove.bg, a partir das imagend geradas via lexica.art, foram retirados os backgrouds da imagens.
 
-
 PowerPoint:
-
 No PoweePoint foram criadas os banners utilizados nos artigos.
-
-
-## ✨ Features
-
-- Conteúdo gerado via ChatGPT
-- Imagens do acervo público geradas via Lexica.art
-
-## 📚 Materiais
-
-- prompts utilizados
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice, indesign para diagramação.
