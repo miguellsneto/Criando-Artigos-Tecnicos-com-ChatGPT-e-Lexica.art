@@ -16,22 +16,20 @@ ChatGPT：
 
 - Conteúdo:
   - Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras abaixo:  
-  REGRAS:
-  > No máximo 5 linhas por blocos de explicação
-  > Me explique de maneira informal, como se eu fosse uma criança de 10 anos
-  > Os blocos que serão criados estão abaixo:
-  - O que são diretivas no Angular
-    - Cite exemplos com código das diretivas
-  - O que são componentes no Angular
-    - Cite exemplos com código dos componentes
-  - Faça um call to action para as minhas redes sociais
-  - Coloque 3 hashtags que façam sentido  
-/
+  - REGRAS:
+    - No máximo 5 linhas por blocos de explicação
+    - Me explique de maneira informal, como se eu fosse uma criança de 10 anos
+    - Os blocos que serão criados estão abaixo:
+    - O que são diretivas no Angular
+      - Cite exemplos com código das diretivas
+    - O que são componentes no Angular
+      - Cite exemplos com código dos componentes
+    - Faça um call to action para as minhas redes sociais
+    - Coloque 3 hashtags que façam sentido  
 
 Lexica.art：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
-
+No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 - Angular
 - Red CiberPunk
 
